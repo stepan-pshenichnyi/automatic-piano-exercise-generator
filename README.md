@@ -1,3 +1,5 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 # Grade-Conditioned Piano Sight-Reading Exercise Generator
 
 An automatic music generation system that creates piano sight-reading exercises aligned with ABRSM grade levels. The project combines **statistical music modeling** with **rule-based pedagogical constraints** to generate controllable exercises with varying levels of musical difficulty.
