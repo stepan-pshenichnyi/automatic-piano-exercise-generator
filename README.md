@@ -195,8 +195,7 @@ Each script generates a new exercise, so running the same command multiple times
 
 The generated exercises are exported as musical scores and opened in MuseScore, allowing users to inspect the notation and use the exercises for sight-reading practice.
 
-Example: ![Generated grade 2 piano exercise in MuseScore](docs/images/2.2.png.png) 
-
+![Generated Grade 2 piano exercise in MuseScore](docs/images/2.2.png)
 
 ## Design Principles
 
@@ -225,4 +224,4 @@ It investigates how statistical music generation techniques can be combined with
 
 ## License
 
-[Choose a license, e.g. MIT, before distributing the project.]
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
