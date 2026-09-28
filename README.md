@@ -195,17 +195,8 @@ Each script generates a new exercise, so running the same command multiple times
 
 The generated exercises are exported as musical scores and opened in MuseScore, allowing users to inspect the notation and use the exercises for sight-reading practice.
 
-<!-- Add a screenshot of a generated exercise here. -->
+Example: ![Generated grade 2 piano exercise in MuseScore](docs/images/2.2.png.png) 
 
-<!-- Example: ![Generated piano exercise in MuseScore](docs/images/example-exercise.png) -->
-
-## Example Output
-
-Generated exercises are represented symbolically and can be rendered as musical notation for inspection and practice.
-
-<!-- Add an image of a generated exercise here. -->
-
-<!-- Example: ![Generated piano exercise](docs/images/example-exercise.png) -->
 
 ## Design Principles
 
